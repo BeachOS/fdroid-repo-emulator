@@ -1,0 +1,22 @@
+Categories:
+  - Internet
+License: BSD-3-Clause
+WebSite: https://beachos.org
+SourceCode: https://gitlab.com/BeachOS/chromium-patches
+IssueTracker: https://gitlab.com/BeachOS/beachos/issues
+Changelog: https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_arm64/-/commits/android11
+
+Name: BeachOS Android WebView
+AutoName: Android System WebView
+Summary: Chromium based Android Webview with BeachOS additions
+Description: |-
+    Android WebView is a system component powered by
+    Chromium, which is the open source version of Google Chrome.
+    It is used by many apps to display web content, including
+    some built into the OS such as DuckDuckGo Privacy Browser.
+
+    It depends on Trichrome Library and that has to be updated first
+    to install updates for this application
+
+AutoUpdateMode: None
+UpdateCheckMode: None

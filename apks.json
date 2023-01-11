@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TrichromeChromex86",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x86/-/raw/android11-qpr1/TrichromeChrome.apk"
+  },
+  {
+    "name": "TrichromeLibraryx86",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x86/-/raw/android11-qpr1/TrichromeLibrary.apk"
+  },
+  {
+    "name": "TrichromeWebViewx86",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x86/-/raw/android11-qpr1/TrichromeWebView.apk"
+  },
+  {
+    "name": "TrichromeChromex64",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x64/-/raw/android11-qpr1/TrichromeChrome.apk"
+  },
+  {
+    "name": "TrichromeLibraryx64",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x64/-/raw/android11-qpr1/TrichromeLibrary.apk"
+  },
+  {
+    "name": "TrichromeWebViewx64",
+    "baseUrl": "https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_x64/-/raw/android11-qpr1/TrichromeWebView.apk"
+  }
+]

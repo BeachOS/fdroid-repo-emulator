@@ -1,0 +1,22 @@
+Categories:
+  - Internet
+License: BSD-3-Clause
+WebSite: https://beachos.org
+SourceCode: https://gitlab.com/BeachOS/chromium-patches
+IssueTracker: https://gitlab.com/BeachOS/beachos/issues
+Changelog: https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_arm64/-/commits/android11
+
+Name: BeachOS Chromium
+AutoName: Chromium
+Summary: Chromium browser with BeachOS additions
+Description: |-
+    Chromium is the open source version of Google Chrome.
+    This version has additional changes applied by The Beach Institute
+    for usage with BeachOS.
+    It also provides the system Webview, which is used by many apps.
+
+    It depends on Trichrome Library and that has to be updated first
+    to install updates for this application
+
+AutoUpdateMode: None
+UpdateCheckMode: None

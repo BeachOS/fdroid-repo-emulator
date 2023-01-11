@@ -1,0 +1,19 @@
+Categories:
+  - Internet
+License: BSD-3-Clause
+WebSite: https://beachos.org
+SourceCode: https://gitlab.com/BeachOS/chromium-patches
+IssueTracker: https://gitlab.com/BeachOS/beachos/issues
+Changelog: https://gitlab.com/BeachOS/platform_prebuilts_beach_chromium_arm64/-/commits/android11
+
+Name: BeachOS Trichrome Library
+AutoName: Trichrome Library
+Summary: Dependency for Chromium browser and Android System WebView
+Description: |-
+    Chromium is the open source version of Google Chrome.
+    This application is the common library used by both
+    BeachOS Chromium browser and BeachOS Android WebView,
+    and must be updated first before those apps can be updated
+
+AutoUpdateMode: None
+UpdateCheckMode: None
